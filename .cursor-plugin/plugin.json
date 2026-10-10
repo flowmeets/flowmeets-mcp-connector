@@ -1,0 +1,16 @@
+{
+  "name": "flowmeets",
+  "displayName": "Flowmeets",
+  "description": "Search Flowmeets meetings, transcripts, action items, coaching, and team knowledge. Sign in with a Flowmeets account.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Flowmeets",
+    "email": "support@flowmeets.com"
+  },
+  "homepage": "https://www.flowmeets.com",
+  "repository": "https://github.com/flowmeets-internal/flowmeets-mcp-connector",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["flowmeets", "meetings"],
+  "category": "productivity"
+}
