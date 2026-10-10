@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="64" viewBox="0 0 256 64" fill="none" role="img" aria-label="Flowmeets">
-  <rect width="256" height="64" rx="12" fill="#0F2744"/>
-  <circle cx="32" cy="32" r="14" fill="#3DDC97"/>
-  <path d="M26 32h12M32 26v12" stroke="#0F2744" stroke-width="2.5" stroke-linecap="round"/>
-  <text x="56" y="40" fill="#F7F4EF" font-family="Georgia, 'Times New Roman', serif" font-size="26" letter-spacing="-0.4">Flowmeets</text>
+<svg width="512" height="512" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flowmeets">
+<path d="M14.5681 10.7466H23.5621C23.1598 18.0366 17.7535 20.7664 15.1006 21.22C6.69825 20.1076 3.57202 26.9892 3.0592 30.5691C3.08879 27.078 3.13021 20.0662 3.0592 19.9478C4.59766 11.7348 11.3728 10.3916 14.5681 10.7466Z" fill="#FF833E"/>
+<path d="M3 31.7022C3.09862 27.8363 5.67455 20.3057 15.1893 21.1105C15.0315 24.2268 12.3728 30.7081 3 31.7022Z" fill="#635BFF"/>
+<path d="M3.0592 11.051V19.8084C4.51921 12.2872 10.6242 10.6584 14.0651 10.7674C14.3058 10.775 18.9122 10.7442 19.1243 10.7674C25.9645 9.60763 27.8521 3.21082 28 0.222656C27.8126 0.222656 21.2545 0.400171 13.5622 0.400171C5.86985 0.400171 3.35506 7.50076 3.0592 11.051Z" fill="#FABC1C"/>
 </svg>
